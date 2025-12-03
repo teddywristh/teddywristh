@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=QuangMinhQu&repo=database-project-2&theme=radical)](https://github.com/QuangMinhQu/database-project-2.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NEU-Bio-Research-Team&repo=Vital-sign-Dataset&theme=radical)](https://github.com/NEU-Bio-Research-Team/Vital_sign_Dataset.git)
