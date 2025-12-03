@@ -49,7 +49,7 @@
 | 📘 Database Project 2 | 🧬 Vital Sign Dataset |
 | :--- | :--- |
 | **Owner:** QuangMinhQu<br>**Role:**Co-Web Developer<br>Final Project by creating a web to provide management system. | **Owner:** NEU Bio Research Team<br>**Role:** Team member<br>Using vital dataset to predict AKI & ARRBD |
-| [🔗 **View Project**](https://github.com/QuangMinhQu/database-project-2) | [🔗 **View Project**](https://github.com/NEU-Bio-Research-Team/Vital_sign_Dataset) |
+| [🔗 **View Project**](https://github.com/MinhQuangQu/ems-database-project.git) | [🔗 **View Project**](https://github.com/NEU-Bio-Research-Team/Vital_sign_Dataset) |
 ---
 
 <p align="center">
