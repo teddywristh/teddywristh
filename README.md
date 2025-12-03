@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm teddywristh! 👋</h1>
-  <p>I'm majoring in Artificial Intelligence of National Economics University (Ha Noi, Viet Nam).</p>
+  <h1>Hi there, I'm Ted!</h1>
+  <p>
+    I'm majoring in <b>Artificial Intelligence</b> at <b>National Economics University</b> (Ha Noi, Viet Nam).<br>
+  </p>
 
   <a href="https://www.linkedin.com/in/ted-winz-b618b436b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -8,48 +10,49 @@
   <a href="mailto:ericwristhwinslow@gmail.com">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://teddneu.blogspot.com/">
+    <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on Medical AI (NEU Bio Research Team)**
-- 🌱 I’m currently learning Quantum Computing, Deep Learning (LSTM, Transformer)**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-- 👨‍💻 All of my projects are available at [https://github.com/teddywristh](https://github.com/teddywristh)
-- 📝 I regularly write articles on [[Blog Link/Medium/Dev.to](https://teddneu.blogspot.com/)]
-
+- 🔭 I’m currently working on **Medical AI (NEU Bio Research Team)**.
+- 🌱 I’m currently learning **Quantum Computing, Deep Learning (LSTM, Transformer)**.
+- 👯 I’m looking to collaborate on **Open Source AI Projects**.
+- 👨‍💻 All of my projects are available at [https://github.com/teddywristh](https://github.com/teddywristh).
+- 📝 I regularly share what I've learned in NEU on [**My Blog**](https://teddneu.blogspot.com/).
 ---
 
 ### 🛠️ Languages and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <br/> <br/>
+  
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### 📌 Featured Projects & Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teddywristh&show_icons=true&theme=radical&hide_border=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddywristh&layout=compact&theme=radical&hide_border=true" height="160" alt="Languages" />
-</div>
-
+| 📘 Database Project 2 | 🧬 Vital Sign Dataset |
+| :--- | :--- |
+| **Owner:** QuangMinhQu<br>**Role:**Co-Web Developer<br>Final Project by creating a web to provide management system. | **Owner:** NEU Bio Research Team<br>**Role:** Team member<br>Using vital dataset to predict AKI & ARRBD |
+| [🔗 **View Project**](https://github.com/QuangMinhQu/database-project-2) | [🔗 **View Project**](https://github.com/NEU-Bio-Research-Team/Vital_sign_Dataset) |
 ---
 
-### 📌 Pinned Repositories
-
-<div align="center">
-  <a href="[https://github.com/teddywristh/TÊN_REPO_1](https://github.com/QuangMinhQu/database-project-2)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddywristh&repo=TÊN_REPO_1&theme=radical" alt="Repo 1" />
-  </a>
-  &nbsp;
-  <a href="[https://github.com/teddywristh/TÊN_REPO_2](https://github.com/NEU-Bio-Research-Team/Vital_sign_Dataset)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddywristh&repo=TÊN_REPO_2&theme=radical" alt="Repo 2" />
-  </a>
-</div>
+<p align="center">
+  <b>💼 Open to learn:</b> I am currently seeking a Master scholarship. <br>
+  <b>📫 Contact me:</b> <a href="mailto:tedd.neu@gmail.com">tedd.neu@gmail.com</a>
+</p>
