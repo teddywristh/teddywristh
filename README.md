@@ -1,69 +1,95 @@
 <div align="center">
   <h1>Hi there, I'm Ted Nguyen! 👋</h1>
   <p>
-    I'm majoring in <b>Artificial Intelligence</b> at <b>National Economics University</b> (Ha Noi, Viet Nam).<br>
+    <b>AI Engineer Sophomore</b> at <b>National Economics University</b><br>
+    AI Researcher | ML/DL Developer | Frontend Developer
   </p>
 
   <a href="https://www.linkedin.com/in/ted-winz-b618b436b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ericwristhwinslow@gmail.com">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:tedd.neu@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://teddneu.blogspot.com/">
-    <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  <a href="https://orcid.org/0009-0000-1241-5666">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-- 🔭 I’m currently working on **Medical AI (Seizure Detection | AKI Diagnosis | PulseDB)** at NEU Bio Research Team.
-- 🌱 I’m currently learning **Quantum Computing, Deep Learning (LSTM, Transformer)** and **Advanced Figma Web Design**.
-- 👯 I’m looking to collaborate on **Open Source AI Projects**.
-- 👨‍💻 All of my projects are available at [https://github.com/teddywristh](https://github.com/teddywristh).
+I am an AI sophomore passionate about applying **Deep Learning in Healthcare**, focusing on **physiological signal processing** and **early disease prediction**.
+
+Currently conducting research at **NEU Bio Research Team** and **DATCOM LAB**, where I work on real-world medical datasets and advanced ML/DL architectures.
+
+- 🚀 **Key Research:** Developed **SynerT**, a multimodal temporal architecture for early **Acute Kidney Injury (AKI)** prediction.
+- 🏆 **Achievements:** 3 consecutive Academic Merit Scholarships (GPA ~3.6/4.0)  
+- 🎓 **Certification:** Google **Gemini University Student (2026)**
+- 📝 **Publication:** Author of *AXKI – Explainable AI System for AKI Risk Scoring* (National Scientific Conference 2025)
+- 📄 **Academic Contribution:** Paper Reviewer at **CITA 2026 Conference**
+
+---
+
+### 🔬 Research & Academic Projects
+
+| 🧬 SynerT (AKI Prediction) | 🧪 SMILESGNN (Toxicity Prediction) |
+| :--- | :--- |
+| **Role:** ML/DL Developer <br> Developed a multimodal architecture combining temporal dynamics and fusion-attention for early AKI prediction during surgery. <br> *(Under review – CITA 2026)* | **Role:** Data Analyst & Researcher <br> Built a Graph Neural Network (GNN) framework for multimodal molecular toxicity prediction using SMILES + graph representation. <br> *(Under review – CITA 2026)* |
+| 🔗 https://github.com/teddywristh | 🔗 https://orcid.org/0009-0000-1241-5666 |
+
+| 💓 PulseDB Integration | 🧠 Seizure Detection (ECoG) |
+| :--- | :--- |
+| **Role:** Analyst & Researcher <br> Integrated **MIMIC-IV & VitalDB**, optimized ML/DL models for physiological signal modeling and AAMI evaluation. | **Role:** Analyst & Researcher <br> Applied ML/DL to classify ECoG time-series signals for seizure prediction using MNE-Python. |
+| 🔗 https://github.com/NEU-Bio-Research-Team/PulseDB | 🔗 https://github.com/teddywristh/Seizure-Dectection-using-ECoG- |
+
+| 💓 ToxAgent - Agentic AI Framework | 🧠 SchiffsCode Platform |
+| :--- | :--- |
+| **Role:** Developer & Researcher <br> ToxAgent - Agentic AI Framework supporting detect toxic molecules | **Role:** Frontend Developer & Founder <br> A practical web for university students which helps them to learn code and algorithms. |
+| 🔗 https://github.com/NEU-Bio-Research-Team/tox-agent| 🔗 https://github.com/teddywristh/Coding-Web-FDA |
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   
   <br/>
-  
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 </div>
+
+**Core Skills:**
+- Machine Learning & Deep Learning (Time-series, Multimodal Learning)
+- Graph Neural Networks (GNN)
+- AI Agents & Prompt Engineering
+- Technical Writing (LaTeX)
 
 ---
 
-### 📌 Featured Projects
+### 📈 Activity & Goals
 
-| 🧠 Seizure Detection (ECoG) | 🏥 AKI & Vital Signs |
-| :--- | :--- |
-| **Role:** Analyst & Researcher<br>Automated seizure detection using **MNE-Python** & ML to localize epileptogenic zones.<br>*(Medical AI)* | **Role:** Analyst & Researcher<br>Predicting Acute Kidney Injury (AKI) using statistical methods and deep learning.<br>*(NEU Bio Research Team)* |
-| [🔗 **View Project**](https://github.com/teddywristh/Seizure-Dectection-using-ECoG-) | [🔗 **View Team Code**](https://github.com/QuangMinhQu/brt-sourcecode) |
-
-| 🐿️ Chipmunk (Front-end) | ☕ Sunshine Seashore |
-| :--- | :--- |
-| **Role:** Owner<br>Developing the front-end for the **SKMM** project using React and modern web tools.<br>*(Web Development)* | **Role:** Web Developer<br>A resort management system applying **OOP principles** in Java.<br>*(University Project)* |
-| [🔗 **View Repo**](https://github.com/teddywristh/front_end_chipmunk) | [🔗 **View Project**](https://github.com/fda-oop-java-anhpt/ai66a-p02-sunshine-seashore) |
-
-| 📊 Database Systems | 💻 Coding-Web-FDA |
-| :--- | :--- |
-| **Role:** Full-stack Web Developer<br>Projects focused on EMS database management and complex SQL structures.<br>*(SQL / PostgreSQL)* | **Role:** Frontend Developer<br>Collection of web development exercises and FDA-related coding projects.<br>*(Web Tech)* |
-| [🔗 **EMS Project**](https://github.com/MinhQuangQu/ems-database-project) | [🔗 **View Repo**](https://github.com/teddywristh/Coding-Web-FDA) |
+- 🌱 Currently learning: **Quantum Computing** & **Advanced UI/UX Design**
+- 👯 Open to collaboration on **Medical AI & Open Source AI Projects**
+- 🎯 Goal: Secure **AI/Data Science Internship** & **Master’s Scholarship**
 
 ---
 
 <p align="center">
-  <b>💼 Open to learn:</b> I am currently seeking a Master scholarship.<br>
-  <b>📫 Contact me:</b> <a href="mailto:tedd.neu@gmail.com">tedd.neu@gmail.com</a>
+  <b>📫 Contact:</b> <a href="mailto:tedd.neu@gmail.com">tedd.neu@gmail.com</a> |
+  <b>GitHub:</b> <a href="https://github.com/teddywristh">teddywristh</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Transforming physiological data into intelligent predictions."</i>
 </p>
