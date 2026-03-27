@@ -25,10 +25,10 @@ I am an AI sophomore passionate about applying **Deep Learning in Healthcare**, 
 Currently conducting research at **NEU Bio Research Team** and **DATCOM LAB**, where I work on real-world medical datasets and advanced ML/DL architectures.
 
 - 🚀 **Key Research:** Developed **SynerT**, a multimodal temporal architecture for early **Acute Kidney Injury (AKI)** prediction.
-- 🏆 **Achievements:** 3 consecutive Academic Merit Scholarships (GPA ~3.6/4.0)  
+- 🏆 **Achievements:** 3 consecutive Academic Merit Scholarships (GPA ~3.67/4.0)  
 - 🎓 **Certification:** Google **Gemini University Student (2026)**
 - 📝 **Publication:** Author of *AXKI – Explainable AI System for AKI Risk Scoring* (National Scientific Conference 2025)
-- 📄 **Academic Contribution:** Paper Reviewer at **CITA 2026 Conference**
+- 📄 **Academic Contribution:** Paper under review at **CITA 2026 Conference**
 
 ---
 
