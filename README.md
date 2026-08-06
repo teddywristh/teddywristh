@@ -24,11 +24,13 @@ I am an AI sophomore passionate about applying **Deep Learning in Healthcare**, 
 
 Currently conducting research at **NEU Bio Research Team** and **DATCOM LAB**, where I work on real-world medical datasets and advanced ML/DL architectures.
 
-- 🚀 **Key Research:** Developed **SynerT**, a multimodal temporal architecture for early **Acute Kidney Injury (AKI)** prediction.
-- 🏆 **Achievements:** 3 consecutive Academic Merit Scholarships (GPA ~3.67/4.0)  
+- 🚀 **Key Research:** Developed **SynerT**, a multimodal temporal architecture for early **Acute Kidney Injury (AKI)** prediction; Agentic AI Framework for **Toxic Molecules Detection** (ToxAgent). 
+- 🏆 **Achievements:** 4 consecutive Academic Merit Scholarships (GPA ~3.67/4.0)  
 - 🎓 **Certification:** Google **Gemini University Student (2026)**
-- 📝 **Publication:** Author of *AXKI – Explainable AI System for AKI Risk Scoring* (National Scientific Conference 2025)
-- 📄 **Academic Contribution:** Paper under review at **CITA 2026 Conference**
+- 📝 **Publication:** Author of 
++ *AXKI – Explainable AI System for AKI Risk Scoring* (National Scientific Conference 2025)
++ *SynerT - Multimodal Temporal Architecture for Early Prediction of Acute Kidney Injury During Surgery* (MAPR 2026) (The 9th International Conference on Multimedia Analysis and Pattern Recognition)
++ *ToxAgent - Agentic AI Framework for Toxic Molecules Detection* (COMOSA 2026) (The 2026 International Conference on Cyber-Physical Systems, Intelligent Systems and Automation)
 
 ---
 
@@ -36,7 +38,7 @@ Currently conducting research at **NEU Bio Research Team** and **DATCOM LAB**, w
 
 | 🧬 SynerT (AKI Prediction) | 🧪 SMILESGNN (Toxicity Prediction) |
 | :--- | :--- |
-| **Role:** ML/DL Developer <br> Developed a multimodal architecture combining temporal dynamics and fusion-attention for early AKI prediction during surgery. <br> *(Under review – CITA 2026)* | **Role:** Data Analyst & Researcher <br> Built a Graph Neural Network (GNN) framework for multimodal molecular toxicity prediction using SMILES + graph representation. <br> *(Under review – CITA 2026)* |
+| **Role:** ML/DL Developer <br> Developed a multimodal architecture combining temporal dynamics and fusion-attention for early AKI prediction during surgery. <br> *(Accepted - MAPR2026)* | **Role:** Data Analyst & Researcher <br> Built a Graph Neural Network (GNN) framework for multimodal molecular toxicity prediction using SMILES + graph representation. <br> *(Accepted - MAPR2026 (The 9th International Conference on Multimedia Analysis and Pattern Recognition))* |
 | 🔗 https://github.com/teddywristh | 🔗 https://orcid.org/0009-0000-1241-5666 |
 
 | 💓 PulseDB Integration | 🧠 Seizure Detection (ECoG) |
@@ -46,7 +48,7 @@ Currently conducting research at **NEU Bio Research Team** and **DATCOM LAB**, w
 
 | 💓 ToxAgent - Agentic AI Framework | 🧠 SchiffsCode Platform |
 | :--- | :--- |
-| **Role:** Developer & Researcher <br> ToxAgent - Agentic AI Framework supporting detect toxic molecules | **Role:** Frontend Developer & Founder <br> A practical web for university students which helps them to learn code and algorithms. |
+| **Role:** Developer & Researcher <br> ToxAgent - Agentic AI Framework supporting detect toxic molecules. <br> *(Accepted - COMOSA 2026)* | **Role:** Frontend Developer & Founder <br> A practical web for university students which helps them to learn code and algorithms. |
 | 🔗 https://github.com/NEU-Bio-Research-Team/tox-agent| 🔗 https://github.com/teddywristh/Coding-Web-FDA |
 
 ---
@@ -77,7 +79,7 @@ Currently conducting research at **NEU Bio Research Team** and **DATCOM LAB**, w
 
 ### 📈 Activity & Goals
 
-- 🌱 Currently learning: **Quantum Computing** & **Advanced UI/UX Design**
+- 🌱 Currently learning: **Signal & Image Processing** & **Biomedical AI**; other foreign languages include **Chinese** and **Spanish**
 - 👯 Open to collaboration on **Medical AI & Open Source AI Projects**
 - 🎯 Goal: Secure **AI/Data Science Internship** & **Master’s Scholarship**
 
@@ -91,5 +93,5 @@ Currently conducting research at **NEU Bio Research Team** and **DATCOM LAB**, w
 ---
 
 <p align="center">
-  <i>"Transforming physiological data into intelligent predictions."</i>
+  <i>"你要懂得一定来得及。"</i>
 </p>
